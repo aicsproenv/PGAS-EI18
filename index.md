@@ -16,8 +16,8 @@ Since the PGAS models is one of emerging programming models for extreme scale co
 
 ## Paper Submission
 Authors are invited to submit technical papers of at most 10 pages in PDF format including figures and references.
-Papers should be formatted in the [ACM Proceedings Style](http://www.acm.org/publications/proceedingstemplate, "ACM Proceedings Style")
-and submitted at [EasyChair](https://www.easychair.org, "Submission Page")
+Papers should be formatted in the [ACM Proceedings Style](http://www.acm.org/publications/proceedings-template "ACM Proceedings Style")
+and submitted at [EasyChair](https://www.easychair.org "Submission Page")
 
 ## Deadline
 TBD
