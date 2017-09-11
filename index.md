@@ -14,10 +14,12 @@ Possible topics include, but are not limited to:
 
 Since the PGAS models is one of emerging programming models for extreme scale computing because of its light-weight one-sided communications, this topic will attract many researcher in high performance parallel computing. This workshop will contribute to the main conference not only by adding a new technical content, but also by attracting researchers for this topic.
 
-## Submissions
+## Call for Papers
+
+## Paper Submission
 TBD
 
-## Deadlines
+## Deadline
 TBD
 
 ## Committees
