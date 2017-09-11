@@ -20,7 +20,8 @@ Papers should be formatted in the [ACM Proceedings Style](http://www.acm.org/pub
 and submitted at [EasyChair](https://www.easychair.org "Submission Page")
 
 ## Deadline
-TBD
+Submission Deadline: **October 23, 2017**
+Acceptance Notification: **November 24, 2017**
 
 ## Committees
 ### Organizing Committee
@@ -28,6 +29,7 @@ TBD
 **Masahiro Nakao**, RIKEN AICS, Japan   
 **Jinpil Lee**, RIKEN AICS, Japan   
 
+<!---
 ### Program Committee
 **Barbara Chapman**, Stony Brook University, USA   
 **Costin Iancu**, Lawrence Berkeley National Laboratory, USA   
@@ -36,3 +38,4 @@ TBD
 **Takeshi Nanri**, Kyushu University, Japan   
 **Tarek A. El-Ghazawi**, The George Washington University, USA   
 **Yasuharu Hayashi**, NEC, Japan
+-->
