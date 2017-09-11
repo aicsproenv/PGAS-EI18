@@ -22,15 +22,15 @@ TBD
 
 ## Committees
 ### Organizing Committee
-**Mitsuhisa Sato**, RIKEN AICS, Japan
-**Masahiro Nakao**, RIKEN AICS, Japan
-**Jinpil Lee**, RIKEN AICS, Japan
+**Mitsuhisa Sato**, RIKEN AICS, Japan   
+**Masahiro Nakao**, RIKEN AICS, Japan   
+**Jinpil Lee**, RIKEN AICS, Japan   
 
 ### Program Committee
-**Barbara Chapman**, Stony Brook University, USA
-**Costin Iancu**, Lawrence Berkeley National Laboratory, USA
-**Hidetoshi Iweashita**, Fujitsu, Japan
-**Jaejin Lee**, Seoul National University, South Korea
-**Takeshi Nanri**, Kyushu University, Japan
-**Tarek A. El-Ghazawi**, The George Washington University, USA
+**Barbara Chapman**, Stony Brook University, USA   
+**Costin Iancu**, Lawrence Berkeley National Laboratory, USA   
+**Hidetoshi Iweashita**, Fujitsu, Japan   
+**Jaejin Lee**, Seoul National University, South Korea   
+**Takeshi Nanri**, Kyushu University, Japan   
+**Tarek A. El-Ghazawi**, The George Washington University, USA   
 **Yasuharu Hayashi**, NEC, Japan
