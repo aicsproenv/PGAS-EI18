@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Overview
+The workshop will focus on PGAS (Partitioned Global Address Space) programming model and experiences of the application using PGAS, and the implementation of compiler, runtime and applications.
 
-You can use the [editor on GitHub](https://github.com/aicsproenv/PGAS-EI18/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Its goal is to bring together researchers working in the area of PGAS programming models to parallelize applications, and share the experience using PGAS models. The workshop focuses on PGAS programming languages, tools and libraries with the special focus on experience about the applications developed using this programming model. The workshop is open to any languages and libraries to enables PGAS models. The papers presented practical implementations, scalability and parallelization efficiency are foreseen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Possible topics include, but are not limited to:
+-	PGAS Languages and library implementations and their evaluation,
+-	Applications development experience with PGAS programming model,
+-	Benchmark suites and performance studies for PGAS programming model,
+-	Optimization techniques in PGAS models.
+-	PGAS programming model for heterogenous systems,
+-	Comparisons between PGAS and other programming models,
+-	New solutions such as the integrations with multi-tasking, the design for a new architecture, etc, …
 
-### Markdown
+Since the PGAS models is one of emerging programming models for extreme scale computing because of its light-weight one-sided communications, this topic will attract many researcher in high performance parallel computing. This workshop will contribute to the main conference not only by adding a new technical content, but also by attracting researchers for this topic.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Submissions
+TBD
 
-```markdown
-Syntax highlighted code block
+## Deadlines
+TBD
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aicsproenv/PGAS-EI18/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Program Committee
+TBD
