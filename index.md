@@ -20,7 +20,7 @@ Papers should be formatted in the [ACM Proceedings Style](http://www.acm.org/pub
 and submitted at [EasyChair](https://www.easychair.org "Submission Page")
 
 ## Deadline
-Submission Deadline: **October 23, 2017**
+Submission Deadline: **October 23, 2017**   
 Acceptance Notification: **November 24, 2017**
 
 ## Committees
