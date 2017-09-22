@@ -18,11 +18,13 @@ Possible topics include, but are not limited to:
 ## Paper Submission
 Authors are invited to submit technical papers of at most 10 pages in PDF format including figures and references.
 Papers should be formatted in the [ACM Proceedings Style](http://www.acm.org/publications/proceedings-template)
-and submitted at [EasyChair](https://www.easychair.org) (not ready yet, will be open soon).
+and submitted at [EasyChair](https://easychair.org/conferences/?conf=pgasei18
+)
 
 ## Deadline
 Submission Deadline: **October 23, 2017**   
 Acceptance Notification: **November 24, 2017**
+Camera-ready Deadline: **December 11, 2017**
 
 ## Committees
 ### Organizing Committee
