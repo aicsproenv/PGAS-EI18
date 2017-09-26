@@ -21,7 +21,7 @@ Papers should be formatted in the [ACM Proceedings Style](http://www.acm.org/pub
 and submitted at [EasyChair](https://easychair.org/conferences/?conf=pgasei18
 )
 
-## Deadline
+## Timeline
 Submission Deadline: **October 23, 2017**   
 Acceptance Notification: **November 24, 2017**   
 Camera-ready Deadline: **December 11, 2017**
@@ -45,4 +45,4 @@ Camera-ready Deadline: **December 11, 2017**
 **Xingjun ZHANG**, Xi'an Jiaotong University, China   
 
 ## Contact
-jinpil.lee "at" riken.jp
+**E-mail:** jinpil.lee "at" riken.jp
