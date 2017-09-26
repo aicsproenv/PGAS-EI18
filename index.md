@@ -43,3 +43,6 @@ Camera-ready Deadline: **December 11, 2017**
 **Yasuharu Hayashi**, NEC, Japan   
 **Yi LIU**, Beihang University, China   
 **Xingjun ZHANG**, Xi'an Jiaotong University, China   
+
+## Contact
+jinpil.lee "at" riken.jp
