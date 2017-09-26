@@ -32,13 +32,14 @@ Camera-ready Deadline: **December 11, 2017**
 **Masahiro Nakao**, RIKEN AICS, Japan   
 **Jinpil Lee**, RIKEN AICS, Japan   
 
-<!---
 ### Program Committee
 **Barbara Chapman**, Stony Brook University, USA   
 **Costin Iancu**, Lawrence Berkeley National Laboratory, USA   
 **Hidetoshi Iweashita**, Fujitsu, Japan   
 **Jaejin Lee**, Seoul National University, South Korea   
+**Min Xie**, National University of Defense Technology, China   
 **Takeshi Nanri**, Kyushu University, Japan   
 **Tarek A. El-Ghazawi**, The George Washington University, USA   
-**Yasuharu Hayashi**, NEC, Japan
--->
+**Yasuharu Hayashi**, NEC, Japan   
+**Yi LIU**, Beihang University, China   
+**Xingjun ZHANG**, Xi'an Jiaotong University, China   
