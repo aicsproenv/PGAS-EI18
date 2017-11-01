@@ -22,7 +22,7 @@ and submitted at [EasyChair](https://easychair.org/conferences/?conf=pgasei18
 )
 
 ## Timeline
-Submission Deadline **(EXTENDED)**: **October 27, 2017**   
+Submission Deadline **(EXTENDED)**: **November 1, 2017**   
 Acceptance Notification: **November 24, 2017**   
 Camera-ready Deadline: **December 11, 2017**
 
