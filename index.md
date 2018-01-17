@@ -26,6 +26,25 @@ Submission Deadline **(EXTENDED)**: **November 1, 2017**
 Acceptance Notification: **November 24, 2017**   
 Camera-ready Deadline **(EXTENDED)**: **December 25, 2017**
 
+## Program
+13:00 - 13:10 : Welcome  
+  Mitsuhisa Sato (RIKEN AICS)  
+13:10 - 14:00 : Keynote  
+  Takeshi Nanri (Kyushu University)  
+14:00 - 14:25 : Linkage of XcalableMP and Python languages for high productivity on HPC cluster system  
+  Masahiro Nakao, Hitoshi Murai, Taisuke Boku and Mitsuhisa Sato  
+14:25 - 14:50 : Performance Evaluation of a Hydrodynamics Application in XcalableACC PGAS Language for Accelerated Clusters  
+  Akihiro Tabuchi, Masahiro Nakao, Hitoshi Murai, Taisuke Boku and Mitsuhisa Sato  
+14:50 - 15:05 : Break  
+15:05 - 15:30 : Recent Experiences in Using MPI-3 RMA in the DASH PGAS Runtime  
+  Joseph Schuchart, Roger Kowalewski and Karl Fuerlinger  
+15:30 - 15:55 : Investigating the Performance and Productivity of DASH Using the Cowichan Problems  
+  Karl Fuerlinger  
+15:55 – 16:20：Towards a Parallel Algebraic Multigrid Solver Using PGAS  
+  Niclas Jansson  
+16:20 - 16:30 : Closing  
+  Mitsuhisa Sato (RIKEN AICS)
+
 ## Committees
 ### Organizing Committee
 **Mitsuhisa Sato**, RIKEN AICS, Japan   
