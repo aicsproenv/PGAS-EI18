@@ -49,7 +49,7 @@ Masahiro Nakao, Hitoshi Murai, Taisuke Boku and Mitsuhisa Sato
 in XcalableACC PGAS Language for Accelerated Clusters  
 Akihiro Tabuchi, Masahiro Nakao, Hitoshi Murai, Taisuke Boku and Mitsuhisa Sato
 
-16:20 – 16:50：Towards a Parallel Algebraic Multigrid Solver Using PGAS
+16:20 – 16:50：Towards a Parallel Algebraic Multigrid Solver Using PGAS  
 Niclas Jansson and Erwin Laure
 
 16:50 - 17:00 : Closing  
