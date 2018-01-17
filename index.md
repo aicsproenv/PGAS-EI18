@@ -27,33 +27,32 @@ Acceptance Notification: **November 24, 2017**
 Camera-ready Deadline **(EXTENDED)**: **December 25, 2017**
 
 ## Program
-13:00 - 13:10 : Welcome
+13:00 - 13:10 : Welcome  
 Mitsuhisa Sato (RIKEN AICS)
 
-13:10 - 14:00 : Keynote
+13:10 - 14:00 : Keynote  
 Takeshi Nanri (Kyushu University)
 
-14:00 - 14:30 : Recent Experiences in Using MPI-3 RMA in the DASH PGAS
-Runtime
+14:00 - 14:30 : Recent Experiences in Using MPI-3 RMA in the DASH PGAS Runtime  
 Joseph Schuchart, Roger Kowalewski and Karl Fuerlinger
 
-14:30 - 15:00 : Investigating the Performance and Productivity of DASH Using the Cowichan Problems
+14:30 - 15:00 : Investigating the Performance and Productivity of DASH Using the Cowichan Problems  
 Karl Fuerlinger, Roger Kowalewski, Tobias Fuchs and Benedikt Lehmann
 
 15:00 - 15:20 : Coffee Break
 
 15:20 - 15:50 : Linkage of XcalableMP and Python languages for high
-productivity on HPC cluster system - Application to Graph Order/degree Problem -
+productivity on HPC cluster system - Application to Graph Order/degree Problem  
 Masahiro Nakao, Hitoshi Murai, Taisuke Boku and Mitsuhisa Sato
 
 15:50 - 16:20 : Performance Evaluation for a Hydrodynamics Application
-in XcalableACC PGAS Language for Accelerated Clusters
+in XcalableACC PGAS Language for Accelerated Clusters  
 Akihiro Tabuchi, Masahiro Nakao, Hitoshi Murai, Taisuke Boku and Mitsuhisa Sato
 
 16:20 – 16:50：Towards a Parallel Algebraic Multigrid Solver Using PGAS
 Niclas Jansson and Erwin Laure
 
-16:50 - 17:00 : Closing
+16:50 - 17:00 : Closing  
 Mitsuhisa Sato (RIKEN AICS) 
 
 ## Committees
